@@ -3,13 +3,14 @@ layout:     post
 title:      Solusi Transfer Uang Tanpa Kena Biaya Admin, Gunakan OVO
 date:       2019-02-28 10:00:00
 summary:    Kalau kamu sering merasa males transfer beda bank karena bakal kena potongan 5.000 atau 6.500, atau bahkan 7.500 rupiah, maka tips ini tepat untukmu.
+image:      /images/post/Nzq2pCM.png
 ---
 
 *Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank.*
 
 *Dan saya tidak dibayar oleh OVO atas tulisan ini* 😌
 
-_![Transfer melalui OVO](/images/post/Nzq2pCM.png)_
+![Transfer melalui OVO](/images/post/Nzq2pCM.png)
 
 Kalau kamu sering merasa males transfer beda bank karena bakal kena potongan 5.000 atau 6.500, atau bahkan 7.500 rupiah, maka tips ini tepat untukmu.
 
