@@ -28,7 +28,7 @@ Menjadi
 
 Cara mencoba link tersebut berfungsi atau engga, adalah dengan cara memasukkan link tersebut di browser (saya sarankan Chrome atau Firefox) dan akan muncul seperti gambar di bawah ini. Atau langsung coba di buka di browser smartphone Androidmu.
 
-![](https://lh3.googleusercontent.com/gYqMZYD_WTx3SOC7soBO7N_eN6B0wiA1_i7LWlM2tnb8cr5c2pTVvTokIaLGwn6LJOBNkFmZIOWm0YttvckhuG8_uhIIV-7_prJ0oMTSsULvaBDPWSAUf8kMkESDZHsBMobLe-uSisY=w1111-h564-no)
+![](/images/post/bgE5njW.png)
 
 Selain link, kamu juga bisa menambahkan text awalan ketika link tersebut dibuka oleh lawan bicara kita, hal ini sangat berfungsi kalau kamu menjalankan sebuah usaha, jadi kamu tau orang ini mengklik link dari platform yang mana.
 
