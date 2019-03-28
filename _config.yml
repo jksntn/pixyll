@@ -4,7 +4,7 @@ email:       jakasantana88@gmail.com
 author:      Jeki
 description: "Opini miring penikmat komedi garing."
 baseurl:     ""
-url:         ""
+url:         "https://jksntn.pw/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
