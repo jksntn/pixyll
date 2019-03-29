@@ -11,9 +11,9 @@ header_pages:
 
 defaults:
   - scope:
-      path: "images"
+      path: ""
     values:
-      image: true
+      image: /images/kcng.jpg
 
 # Google services
 google_verification:
