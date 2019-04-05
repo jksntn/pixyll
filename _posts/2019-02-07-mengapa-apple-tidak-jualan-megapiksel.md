@@ -22,7 +22,7 @@ Saya akui memang memotret atau merekam video di iPhone itu berbeda banget dengan
 
 Di awal tahun 2019 ini, brand lain (non Apple) sibuk meyakinkan orang kalau kamera smartphone mereka menggunakan teknologi terbaru dan menggunakan megapiksel yang besar, supaya orang-orang awam yang bahkan tidak mengenal fotografi dasar, jadi terpikat dengan smartphone 48 megapiksel mereka.
 
-Sedangkan Apple? Mereka sibuk mengedukasi masyarakat, orang awam fotografi, dan para fotografer supaya bisa menggunakan fitur-fitur pada iPhone secara maksimal sehingga akhirnya orang-orang ini bisa menggunakan iPhone mereka sebagai pengganti Mirrorless atau DSLR.
+Sedangkan Apple? Mereka sibuk mengedukasi masyarakat, orang awam fotografi, dan para fotografer supaya bisa menggunakan fitur-fitur pada iPhone secara maksimal sehingga akhirnya orang-orang ini bisa menggunakan iPhone mereka sebagai pengganti kamera Mirrorless atau DSLR.
 
 Jelas Perbedaannya kan? 😁
 
